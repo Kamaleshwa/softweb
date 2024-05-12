@@ -229,23 +229,7 @@ Publish the website in the given URL.
         .login form .Signup {
             position: absolute;
             top: 70%;
-            color: white;
-            margin-left: 35px;
-        }
-
-        .login form .Signup b a {
-            text-decoration: none;
-            color:black;
-            margin-left: 20px;
-        }
-
-        
-        .login form h5 {
-            position: absolute;
-            top: 73%;
-            color: white;
-            margin-left: 65px;
-        }
+            color:
 
         .login form .image {
             position: absolute;
@@ -301,16 +285,6 @@ Publish the website in the given URL.
                 <img src="4.png" width="25px">
             </div>
         </form>
-    </div>
-    <footer>
-        Designed and Developed by Rohith.v &copy; 2023
-    </footer>
-
-</body>
-
-</html>
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -393,29 +367,7 @@ Publish the website in the given URL.
             text-align: center;
         }
         .search input,button{
-            position: absolute;
-            right: 12px;
-            font-size: 18px;
-            border-color:silver;
-        }
-        .small
-        {
-           width:200px;
-           height:200px;
-           margin:10px;
-        }
-        .border{
-        border-width:5px;
-        border-color:black;
-        border-style:solid;
-        border-radius:50%;
-        }
-        .cirpic{
-            position:absolute;
-            top:35%;
-            margin-left: 40px;
-        }
-        .text{
+            position: a
             position:absolute;
             top:55%;
             margin-left: 40px;
@@ -483,31 +435,7 @@ Publish the website in the given URL.
                
 </body>
 </html>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-        h1{
-        color:black;
-        font-size: 45px;
-        font-family:Georgia, 'Times New Roman', Times, serif;
-        position: absolute;
-        top:35%;
-        }
-        body{
-        background-color:silver;
-        margin:0;
-        }
-        .navbar ul{
-        list-style-type:none;
-        background-color:blac;
-        
-        }
-        .navbar a{
-         color:white;
+<!DOCTYPE html>te;
         text-decoration:none;
         padding:25px;
         display:flex;
@@ -579,26 +507,7 @@ Publish the website in the given URL.
            margin:10px;
         }
         .border{
-        border-width:5px;
-        border-color:black;
-        border-style:solid;
-        border-radius:50%;
-        }
-        .cirpic{
-            position:absolute;
-            top:35%;
-            margin-left: 40px;
-        }
-        .text{
-            position:absolute;
-            top:55%;
-            margin-left: 40px;
-            font-size: 20px;
-        }
-        .text2{
-            position:absolute;
-            top:60%;
-            margin-left:58px;
+        border-wid-left:58px;
         }
     
     </style>
@@ -635,19 +544,7 @@ Publish the website in the given URL.
                     <th>   Saro</th>
                     <th>   Vidya</th>
                     <th>       Zion</th>
-                </tr>
-            </table>
-        </div>
-        <div class="text2">
-            <table cellpadding="83">
-                <tr>
-                    <td>founder</td>
-                    <td>Co-Founder</td>
-                    <td>CEO</td>
-                    <td>Director</td>
-                    <td>Asst.Director</td>
-                    <td>Manager</td>
-                </tr>
+                </r>
             </table>
         </div>
       
@@ -671,19 +568,7 @@ Publish the website in the given URL.
         position: absolute;
         top:30%;
         }
-        body{
-        background-color:silver;
-        margin:0;
-        }
-        .navbar ul{
-        list-style-type:none;
-        background-color:black;
-        
-        }
-        .navbar a{
-         color:white;
-        text-decoration:none;
-        padding:20px;
+        body{dding:20px;
         display:flex;
         text-align:left;
         position: relative;
@@ -728,21 +613,7 @@ Publish the website in the given URL.
         color:white;
         margin-top:9px;
         margin-left:10px;
-        }
-        .search input{
-            width:18%;
-            height: 30px;
-
-        }
-        .search button{
-            color:white;
-            background-color: rgb(22, 165, 222);
-            padding: 5px;
-            text-align: center;
-        }
-        .search input,button{
-            position: absolute;
-            right: 12px;
+        }right: 12px;
             font-size: 18px;
             border-color:silver;
         }
@@ -787,25 +658,7 @@ Publish the website in the given URL.
             position:absolute;
             border-left: 3px solid darkblue;
             height: 440px;
-            margin-left: 800px;
-            top:40%;
-        }
-        #ci{
-            font-size: 30px;
-            margin-left: 40px;
-        }
-        .info{
-            position:absolute;
-            top:40%;
-            font-size: 25px;
-            background-color: white;
-            padding:70px 250px 95px 147px ;
-            margin-left: 800px;
-        }
-        .coform form{
-            background-color: white;
-            top:40%;
-            margin-left: 0px;
+            margin-lgin-left: 0px;
             padding:0px 282px 50px 0px;
         }
     </style>
@@ -859,9 +712,7 @@ Publish the website in the given URL.
 
 
 # OUTPUT:
-![image](https://github.com/Kamaleshwa/softweb/assets/144980199/c81b6f3f-1267-4caf-be22-5d1cfac53544)
 ![image](https://github.com/Kamaleshwa/softweb/assets/144980199/7079a83a-d819-4bd9-bbec-1ae3a6d8118c)
-![image](https://github.com/Kamaleshwa/softweb/assets/144980199/5cb48d8a-4d88-469e-8e3b-9c38655c8f1d)
 ![image](https://github.com/Kamaleshwa/softweb/assets/144980199/f41a8a43-a46d-4f79-9eab-5b0ec38451ae)
 
 
